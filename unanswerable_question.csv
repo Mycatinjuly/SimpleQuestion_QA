@@ -1,0 +1,432 @@
+question_id,subject,relation,object,question,subject_name
+39,m.01pm4nb,music/artist/label,m.01rww3,Which label is somevelvetsidewalk signed to,some velvet sidewalk
+64,m.062s9s,location/location/events,m.08w4qg,which event took place in italia (roman empire),roman italy
+141,m.04j25xy,media_common/netflix_title/netflix_genres,m.03spz,what is passover fever movie about,
+228,m.0jy1pqp,time/time_zone/locations_in_this_time_zone,m.02_9n,what is the name of a location in brasília standard time,brt||brasília time zone||brasilia time zone
+230,m.0y9w_wv,common/topic/notable_types,m.09jd9nh,what notable type is stay,
+265,m.0h2h44p,people/person/nationality,m.03rk0,what is nainika's nationality,nainika durairaj
+270,m.0f4m7hs,music/release/region,m.09c7w0,in what region of the world was days of thunder released?,days of thunder: music from the motion picture soundtrack
+284,m.0gf7ssk,film/film/country,m.03rjj,what country is dracula in brianza from,"dracula in the provinces||young dracula||the demonic womanizer costante nicosia, or: dracula in brianza||il cav. costante nicosia demoniaco, ovvero: dracula in brianza"
+360,m.05bdd4q,people/person/profession,m.04gc2,Name a lawyer. ,charlie herschel||charles herschel
+413,m.01rrs9n,music/album/genre,m.016_rm,what genre of music is locd out,loc'd out
+502,m.0gsykds,film/film/language,m.05zjd,what language was used in the film samba riachao,
+571,m.0dwvjq0,music/release/region,m.0345h,Where was the best of david bowie 1974-1979 released?,
+574,m.0kyp_wz,cvg/game_version/publisher,m.01n073,which company released tiger woods pga tour 07?,
+577,m.03_fby,people/person/gender,m.02zsn,what is cassiesteele's gender?,cassandra rae \"cassie\" steele||cassie steele||cassandra rae steele||cassandra samantha steele
+589,m.0bbc29p,people/person/gender,m.05zppz,What is Roger Molliens gender?,
+741,m.03f3bp7,music/artist/genre,m.0190xp,what is the genre of gusgofficial,kostas karamitroudis||gus g.
+771,m.03yvtl5,film/producer/films_executive_produced,m.06zpsmp,Which film did greg aronowitz executively produce,
+779,m.05qdh,visual_art/visual_art_form/artists,m.064q64f,who is russian jewish painter,painting
+1048,m.027pcsh,music/album/genre,m.02x8m,What type of music is on the album greatest hits - history volume i,
+1113,m.05zlj4w,film/film/country,m.059j2,Which country is the film sjors en sjimmie en de gorilla from,
+1176,m.01sjng,cvg/cvg_genre/games,m.02vvmf7,which game is racing game,racing video game
+1441,m.03jy9d,medicine/drug_administration_route/drug_formulations,m.0hqtr4x,What is the name of a topical drug?,topical medication
+1503,m.015h7,base/scubadiving/ecoregion/contained_by,m.015h7,Name a sea to go scuba diving in,black sea
+1556,m.0gw7q_r,film/film/genre,m.0jtdp,What genre of film is this is what love in action looks like?,
+1568,m.034v4g,aviation/airport/serves,m.04f69c,What's a village that kent international airport serves,manston airport||kent airport
+1637,m.0gsq4,people/person/place_of_birth,m.028ld3,where was what play did  born,gabrielle roy
+1651,m.0drcf,people/ethnicity/languages_spoken,m.02hx790,what to people of the blackfeet tribe speak,piegan blackfeet
+1676,m.02hjn4,cvg/gameplay_mode/games_with_this_mode,m.05x5ht,What is a game that uses single-player mode?,single-player video game
+1784,m.02qpmj2,common/topic/notable_types,m.07vr92g,What was grant thornton known for?,grant thornton international
+1810,m.0crtcln,media_common/netflix_title/netflix_genres,m.0ggq0m,what type of music is casta diva: a romanticized biography of bellini,
+1828,m.0jw1qp1,people/person/place_of_birth,m.0fngy,what is denis guma's birthplace,
+1913,m.03qq_0g,visual_art/artwork/art_genre,m.04wkvh,"what genre is the artwork evening, honfleur considered",
+1917,m.01jzhnh,music/album/artist,m.060vsf,Who is the artist of the album live at montreux,
+2040,m.0b__5h0,astronomy/orbital_relationship/orbits,m.06m_p,What celestial body does (7120) 1989 ad3 orbit,7120 davidgavine
+2053,m.027xpr1,soccer/football_player/position_s,m.02_j1w,This Azerbaijan football player played the position of midfielder,mohamed fofana
+2109,m.0f6bcn,cvg/computer_videogame/gameplay_modes,m.01z747,What gameplay mode is supported by the computer videogame mashed: fully loaded,"mashed: вдребезги||mashed: jed?, aby prze?y?||mashed: drive to survive||drive to survive||mashed: двойная загрузка||baoli saiche||bousou! kenka grand prix: drive to survive"
+2144,m.0z85h70,people/person/nationality,m.05b4w,which country is jonas forsang moksnes from,
+2163,m.0g9w9cr,music/artist/genre,m.09qxq7,what kind of music is,lisbee stainton
+2176,m.0f7svwn,music/album/release_type,m.02lx2r,how was perfil released,
+2207,m.01ylmk,sports/boxer/stance,m.02w_xk3,What type of boxing stance does ji-won kim have,kim ji-won
+2307,m.06vw6v,music/album_content_type/albums,m.01hs2gg,what is an album with studio content,studio album
+2314,m.0fr47rb,music/album/album_content_type,m.02jbfk,What kind of album is best album shiro-ban?,
+2317,m.0wd7nrb,music/recording/artist,m.03xl77,What artist recorded were the greatest,we're the greatest
+2349,m.049rkg9,music/album/release_type,m.02lx2r,How was  released?,cowboy's christmas
+2360,m.0287wc9,music/artist/genre,m.06cqb,what genre is carljah,carl jah||carl haasis||carl john haasis
+2477,m.07ztnb,film/film/directed_by,m.032cn9,who directed the movie ,sarki||the tune||i melodia
+2540,m.0h7lf_s,medicine/drug/active_moieties,m.02z428,what is the active ingredient of juvisync,simvastatin/sitagliptin
+2680,m.097m_1,organization/organization/geographic_scope,m.06mkj,what is a country who practiced communism ,communist movement
+2829,m.09v479x,music/album/artist,m.035d6q,Which artist is responsible for,the spoiler
+2856,m.04290v,people/deceased_person/place_of_death,m.0d6hn,Where in cuba did bibiana antonia manuela torres acosta die?,maria soledad torres y acosta
+2885,m.03cywx,cvg/computer_videogame/gameplay_modes,m.02hjn4,What type of gameplay mode is neon genesis evangelion: iron maiden 2nd,neon genesis evangelion: girlfriend of steel 2nd
+2956,m.03gfzm5,common/topic/notable_types,m.02nsjl9,What's a famous type of film character,boyfriend
+2971,m.01wy9d,common/topic/notable_types,m.01xryvt,who is abbe huc,evariste regis huc||évariste régis huc
+3004,m.03zj416,music/release/format,m.01www,In what country in the montessori oberschule potsdam,'70s gold
+3041,m.01s5pqk,music/artist/label,m.0f9pfx,What record company is shininghalmstad a part of,shining
+3047,m.03hk5hg,people/person/gender,m.05zppz,What is ogedayspace's gender?,ogeday
+3053,m.0smzdy0,music/release_track/recording,m.0nkz9mq,Which is the release track of the album ?,no turning back
+3069,m.058nql,location/location/containedby,m.03rk0,where can new jalpaiguri be found,new jalpaiguri railway station
+3188,m.05v58gw,film/film/production_companies,m.014l4w,What production company produced?,fat chance
+3216,m.05ssss_,music/album/album_content_type,m.0l14g2,is buena vista social club at carnegie hall a dvd or a live album,
+3626,m.0zp_5_z,music/recording/artist,m.01wz2n0,WHich artist recorded,dangerous
+3657,m.02hwjmp,base/rosetta/languoid/languoid_class,m.05kf4hf,"what is malay, kota bangun kutai","malay, kota bangun kutai language"
+3710,m.0hqt2sr,medicine/drug_formulation/active_ingredients,m.034rqj,What artist produced the recording come home and come true,carbamide peroxide 0.0655 liquid||auro ear wax remover
+3723,m.02hjn4,cvg/gameplay_mode/games_with_this_mode,m.05c3h7y,What is an interactive fiction awarded game featured by a single-player?,single-player video game
+3729,m.01hr5r9,music/album/album_content_type,m.02jbfk,what kind of album was v,the radio one sessions
+3779,m.03c82nj,people/person/gender,m.05zppz,What is nílton's gender?,nílton de oliveira silva
+3954,m.04xvlr,film/film_genre/films_in_this_genre,m.0cr_8_t,what is an example of a period piece,historical period drama
+3992,m.0kb9g21,people/person/nationality,m.01mjq,what is alois sedlácek's nationality?,
+4009,m.025zzc,cvg/cvg_genre/games,m.08hd8h,What is the name of Spongebob's game,action game
+4018,m.01z747,cvg/gameplay_mode/games_with_this_mode,m.06ht3c,what is a game that features multiplayer ,multiplayer video game
+4021,m.035xt0c,music/release/track_list,m.0lbpd7t,what song was included in best collection iv olympia,olympia ?jam project best collection iv?
+4027,m.04zlmb,cvg/cvg_publisher/games_published,m.0kynlwq,what is a game published by dreamcatcher games ,dreamcatcher interactive||dreamcatcher interactive inc.||dreamcatcher interactive inc
+4062,m.02_lmb,film/film/country,m.0f8l9c,who is someone famous with attention deficit hyperactivity disorder,dracula: dead and loving it
+4176,m.0zkgs8j,music/composition/form,m.074ft,what form is single bed in  ,
+4264,m.06mq7,media_common/literary_genre/books_in_this_genre,m.025ywnk,what book is sicence,science
+4391,m.0dz64dx,music/release/format,m.01www,"is gainsbourg, serge a compact disc or a audio cassette ",l'homme à tête de chou
+4392,m.01pr41h,music/artist/track,m.0nm2rwp,which trace was done by the artist martynjoseph,"joseph, martyn||martyn joseph"
+4477,m.015w9s,media_common/netflix_genre/titles,m.08yd9n,whats the name of a netlfix  television movie ,tv movie||television film||made-for-tv movie
+4606,m.02h664x,people/profession/people_with_this_profession,m.03y9cqy,what are the names of russian basketball players?,
+4624,m.02jknp,people/profession/people_with_this_profession,m.02r610d,What is the name of the director of the film  Ma vie en rose?,film director||filmmaker
+4693,m.0jt3m9f,film/film/language,m.03k50,in what language was hamara bajaj spoken,agra ka daabra
+4719,m.0dt31k,cvg/computer_videogame/developer,m.01nds,Which company developed onimusha 2,guiwuzhe 2||onimusha 2: samurai's destiny
+4742,m.0n3sl,location/location/contains,m.04b7c8_,What is a city in the country richmond?,richmond county
+4819,m.05kqgz,food/ingredient/compatible_with_dietary_restrictions,m.07_lq,What diet is solanum centrale compatbile with,"raisins, seeded||australian desert raisin||kutjera"
+4869,m.04wc1xz,book/book/genre,m.02xlf,What is an example of a fiction book,rowdy in paris
+4884,m.0f56cp_,music/recording/producer,m.03f5spx,who is the producer of the recording?,miles away
+4886,m.051_y,people/cause_of_death/people,m.025swk3,which roman emperor was murdered?,murder
+5006,m.03g1435,music/album/album_content_type,m.0l14gg,what type of album is pitch black,
+5023,m.0j3wpr6,people/person/nationality,m.088q4,what is the nationality of gilbert mapemba,
+5077,m.01qfh0n,people/person/place_of_birth,m.019rvp,where in england was peterwolfe born in?,peter wolfe||wolfman||pete wolfe
+5098,m.0x21_jm,music/composition/composer,m.01wcpd4,who was the composer for pinhead,
+5134,m.03fn9xv,music/release/format,m.01www,how was the album pistolbuttsatwinkle  released,pistolbuttsa'twinkle
+5165,m.0x17tvr,film/film/genre,m.03npn,What kind of film is cry of the bewitched featured as?,
+5182,m.0gw5nz9,media_common/netflix_genre/titles,m.01cwjw,what is a disney movie found on children & family movies in netflix ,
+5262,m.02w7gg,people/ethnicity/people,m.01qwqn,who is an english tv personal ,english people||the english
+5282,m.0bf5sm3,music/album/artist,m.01l2qwn,Who is the artist for three sides live?,three tenors (live)
+5353,m.02rlnhp,music/artist/label,m.08n1m7,what label is themisunderstood1966 under,glenn ross campbell
+5460,m.0np5bd0,music/album/release_type,m.02lx2r,what is high voltage rocknroll,high voltage rock'n'roll
+5488,m.02l7c8,film/film_genre/films_in_this_genre,m.03pw28,what is a 1936 American musical romantic film,romantic drama||romance||romance film
+5493,m.03_gbj,base/crime/crime/crime_type,m.019726,what type of crime was the daegu metro fire,daegu subway fire
+5557,m.06hgj,book/author/works_written,m.0g5qysj,what country is maiwa language spoken in,"raw||robert wilson||robert anton wilson||robert edward wilson||wilson, robert anton"
+5613,m.01z747,cvg/gameplay_mode/games_with_this_mode,m.0cz9x4,what are games with multiplayer mode?,multiplayer video game
+5729,m.0gj_q5,location/location/containedby,m.0bzty,where is canneto sulloglio located,"canneto sull'oglio||canneto sull'oglio, italy"
+5731,m.01t_frm,people/person/gender,m.02zsn,what is stephaniesmithmusic's gender,"stephanie smith||smith, stephanie"
+5743,m.0bqzm_,base/roses/type_of_rose/roses_of_this_type,m.0j2r761,what is a type of hybrid tea,hybrid tea rose
+5780,m.03jy9d,medicine/drug_administration_route/drug_formulations,m.0jxpj0j,topical is a drug administration route that can be used to control what disease?,topical medication
+5787,m.0gwr00,music/artist/genre,m.064t9,what type of music does candiepayne make?,"candie payne||payne, candie"
+5825,m.0281j31,music/album/genre,m.064t9,what kind of music is on  singing priests of tagbilaran,
+5853,m.0j_h_y8,astronomy/astronomical_discovery/discovery_site,m.022tzk,what observatory was 12145 behaim discovered in,
+5891,m.051_y,people/cause_of_death/people,m.027hvbv,Who was a person that was murdered,murder
+5894,m.0ghxs6,location/location/containedby,m.04dfw1,What province is brunello (va) located in,"brunello, lombardy"
+5901,m.0dvl5pk,music/album/primary_release,m.0fbk608,what is the primary release of the album?,monk
+5940,m.064mc1p,people/person/parents,m.07qcks,who is a parent of rolker gracie,
+5965,m.02p0qx9,user/coco/science/concepts_theories/child_concept,m.01pdfw,What is a theory of differential geometry,differential topology
+5988,m.02h7hyr,business/industry/companies,m.0lj8m,what's a company in the transportation industry,
+6085,m.03fqtkq,music/release/track_list,m.0l_j6ly,What is a track from the album?,actual fucking
+6086,m.09tzt61,film/film_art_director/films_art_directed,m.0jqtz,what film is directed by kendall o'connor,
+6142,m.05qdh,visual_art/visual_art_form/artworks,m.08m5bk,What is the release type of "get in the ring"?,painting
+6153,m.0dnb_xt,music/release/track_list,m.0m8rv1c,What is the 10th track on the best of busta rhymes,total devastation: the best of busta rhymes
+6203,m.02hjn4,cvg/gameplay_mode/games_with_this_mode,m.08hd8h,What is a game with single-player mode?,single-player video game
+6210,m.0mhfr,music/genre/artists,m.01spht2,"what is an indie rock band from Cincinnati, Ohio",country rock
+6284,m.0fd1cb,people/person/languages,m.09bnf,What's a language spoken by jayanthi (actress),kamala kumari||jayanthi sivaram||kamala
+6426,m.01qt1kx,people/person/place_of_birth,m.013yq,where was richardbonemusic born,"richard bone||bone, richard"
+6428,m.0g1vb16,music/release/track,m.0fr432l,What is a track on the release in paris?,
+6468,m.01fj_hr,music/album/release_type,m.02lx2r,"what is dubstep allstars, volume 02","dubstep allstars, volume 02: mixed by dj youngsta"
+6594,m.01rygyc,music/artist/genre,m.02w4v,is thebedroomphilosopher folk music or classical,"bedroom philosopher, the||the bedroom philosopher||justin heazlewood"
+6604,m.04yh4s,cvg/computer_videogame/publisher,m.01qckn,what company released the game castlevania iii,akumajou densetsu||castlevania iii: dracula's curse
+6702,m.0zvxldg,people/person/gender,m.05zppz,is jihyuk male or female,
+6758,m.0ft9g1s,music/recording/artist,m.0hprzx3,Who recorded poison,
+6795,m.0ch2v5,time/time_zone/locations_in_this_time_zone,m.01nmb1,What is an island located in the malaysia standard time zone?,malaysia time zone||mst||myt
+6830,m.02hjn4,cvg/gameplay_mode/games_with_this_mode,m.076yrw3,what is a game with the gameplay mode of single-player,single-player video game
+6831,m.02wcl3s,time/event/locations,m.04tm2,Which region did the national liberation war of macedonia take place in,world war ii in yugoslav macedonia
+6833,m.0crwc0n,film/film/language,m.02h40lc,where was david armstrong born,undisputed comedy series: lil rel
+6859,m.01sjng,cvg/cvg_genre/games,m.06q699,whats the title of a  racing game,racing video game
+6872,m.02kdv5l,film/film_genre/films_in_this_genre,m.0crvbz9,what is a film directed by stephen sepher,action||action film||action movie
+6916,m.01bg5t,medicine/drug_ingredient/active_moiety_of_formulation,m.0hqsy2t,What is one of the drug formulation where echinacea is used? ,coneflowers||coneflower
+6938,m.02tk7z,food/ingredient/compatible_with_dietary_restrictions,m.07_hy,in which nutritional regime is milk thistle used,silybum
+6947,m.08wkl_4,people/person/religion,m.03_gx,What religion does simon rawidowicz practice?,
+6952,m.01jjtgj,music/album/release_type,m.02lx2r,what kind of release is ópera do malandro?,
+6963,m.02rn_bj,music/group_member/instruments_played,m.0l14md,which instrument is played by chrisseefried,christopher hall seefried||bullfrog||chris seefried
+6985,m.05pxc0b,book/book_character/appears_in_book,m.03bkkv,Name a book that the character Lavender Brown appears in.,
+6993,m.0kc0g0j,people/person/place_of_birth,m.0k3p,where was bertus botterman born,
+7042,m.03cq60,religion/place_of_worship/religion,m.092bf5,what religion practices at eiheiji,eihei-ji
+7066,m.0hz_mch,film/film/genre,m.06b0n3,what kind of film is the erotic mirror?,
+7114,m.0bmd1r8,music/artist/label,m.0bwfy8,what record label are signed under,trackslayerz
+7196,m.0j8hd,people/cause_of_death/people,m.09sndh,who is a woman that died from who is a woman that,malignant breast neoplasm||breast cancer
+7391,m.0b44bzz,film/film/directed_by,m.054xs9,who directed the film volcano,
+7428,m.06zmsh_,people/person/gender,m.05zppz,What is the gender of egon k?hler,
+7513,m.01z747,cvg/gameplay_mode/games_with_this_mode,m.069lqf,Which game uses multiplayer gameplay mode?,multiplayer video game
+7670,m.03hp40f,music/artist/origin,m.0k02b,where did titoparis originate from,aristides paris||tito paris
+7693,m.03jy9d,medicine/drug_administration_route/drug_formulations,m.0hqrqsh,what are some topical drugs,topical medication
+7710,m.02hjn4,cvg/gameplay_mode/games_with_this_mode,m.07s5jlw,what are single-player games,single-player video game
+7769,m.0b8zqd,cricket/cricket_player/batting_style,m.01r7cb,which hand does he use,karsan ghavri
+7804,m.02rq1d7,film/film/genre,m.015w9s,What genre of film is rooster?,
+7806,m.03h2c,location/location/partially_contains,m.069964,Where is motagua river located?,honduras||republic of honduras||república de honduras||spanish honduras
+7818,m.07kg0mk,music/album/release_type,m.02lx2r,What is the last time released under?,
+7995,m.04wkvh,visual_art/visual_art_genre/artworks,m.0bvb9js,what is a landscape artwork,landscape painting
+8002,m.0fv82,medicine/drug/drug_class,m.0hqyw4l,what kind of drug is valproic acid?,valproate
+8011,m.02ph9c5,broadcast/radio_station/format,m.05r6t,in what format is the radio station lithium,
+8188,m.0b4x29,business/business_operation/industry,m.02wbm,what type of business is the operation zaxbys,zaxby's
+8198,m.06p5g,astronomy/star_system/planetary_system,m.03y5_0l,"what steroid was discovered on September 12, 1991",solar system
+8228,m.0kyrgwp,cvg/computer_videogame/cvg_genre,m.01mtt,what type of videogame is puzzle chronicles,
+8231,m.027fvmt,music/group_member/instruments_played,m.0342h,which musical instrument is played by adubq,"andy warren||warren, andy"
+8304,m.0mv0v4b,people/person/profession,m.02kvl3l,what is wilhelm schamoni's profession ,
+8340,m.0d8mg,award/award_category/category_of,m.061jp,which award is the criticism prize apart of,pulitzer prize for criticism
+8467,m.03t28,language/language_family/languages,m.01_58p,"What is the form of the Norman language spoken in Jersey, France?",italic languages
+8468,m.036094,architecture/structure/architect,m.09db4v,Who was the architect for the ronald reagan building?,ronald reagan building and international trade center||the ronald reagan building and international trade center
+8471,m.0gyxb20,music/album/album_content_type,m.02jbfk,what is the album content type of https://our.intern.facebook.com/intern/freebase/question?,the doors classics
+8594,m.03jy9d,medicine/drug_administration_route/drug_formulations,m.0hqrzfh,What's an example of a topical drug formulation,topical medication
+8969,m.0wmcxz,music/recording/releases,m.0370z32,What album featured the recording of garden partyWhat ,garden party
+9075,m.04cb65k,music/artist/origin,m.030qb3t,where was blackpresident from,black president
+9088,m.01_mtx,tv/tv_program_creator/programs_created,m.0fbxjg,what program was cosgrove hall the creator of,cosgrove hall productions||cosgrove hall films
+9123,m.0hxj72r,people/person/nationality,m.0f8l9c,What is the nationality of someone from dorville?,
+9235,m.03nlj06,music/artist/origin,m.05hcy,Where is venomousspida from,venomous
+9276,m.0y38p7,music/recording/releases,m.0fz76zh,Which album contains the song lament for gandalf,lothlorien||lothlórien / lament for gandalf||lothlorien / lament for gandalf (feat. elizabeth fraser)
+9355,m.06f6z7,people/person/nationality,m.02jx1,where is ianbostridge form,"ian bostridge||bostridge, ian"
+9395,m.0d3rr9,film/film/executive_produced_by,m.05cv94,who executive producednever cry wolf,never cry wolf
+9633,m.0y46qbd,music/album/release_type,m.014k0b,what is the release type of the album ?,somebody else
+9801,m.0sgbbzc,people/person/place_of_birth,m.0yd75,where in the united states is curtis credelborn in?,curtis credel||curtis ray credle||curtis credle
+9837,m.0nfvnr,music/recording/artist,m.0hppxqr,which artist recorded coast to coast,coast to coast (for stan getz
+9851,m.0cp56y,people/deceased_person/place_of_death,m.0fq48,Where did bartholomew ulufaalu die?,bartholomew ulufa'alu
+9855,m.0w60vn0,film/film/language,m.02bv9,what language is used in the film love trap,
+9999,m.03bxzkh,chemistry/chemical_series/elements,m.027vj2v,which elements were discussed in other metal?,post-transition metal
+10021,m.0_j_x6y,music/composition/composer,m.01pdp4,who composed rush,
+10109,m.0kynfzb,cvg/computer_videogame/cvg_genre,m.02x9hs,What type of a game is shark! hunting the great white,
+10122,m.02q9wld,business/business_operation/industry,m.0191_7,What type of store is cvs caremark,cvs health
+10162,m.04zw4x_,people/person/religion,m.0c8wxp,who practices catholicism,amanda aguirre
+10164,m.0bff119,music/album/artist,m.02jq1,what is the famous musician from a golden celebration,
+10173,m.02hjn4,cvg/gameplay_mode/games_with_this_mode,m.07b2x3,Name a game that has single-player mode,single-player video game
+10177,m.0jbctxx,american_football/football_player/position_s,m.01_9c1,What position does jean fanor play on defense,
+10180,m.0h2kh2c,film/film/country,m.0d060g,What country did the film originate? ,burgundy of hash||afghan luke
+10182,m.0djbf27,media_common/netflix_title/netflix_genres,m.03npn,What genre on netflix is the euroshock collection: the awful dr. orlof,
+10223,m.06zrtl,people/deceased_person/place_of_death,m.0f94t,where in new york city was billybangartist's place of death?,"william vincent walker||billy bang||bang, billy"
+10306,m.0_xhgv4,people/person/gender,m.05zppz,Is karim ouelhaj male or female,
+10324,m.09gpr3j,music/soundtrack/film,m.05p3_76,What is the name of the soundtrack of frauds,
+10363,m.0q577,influence/influence_node/influenced,m.0265qkf,Who was a person that was influenced by berzelius,j?ns jacob berzelius||j?ns jakob berzelius
+10410,m.01z747,cvg/gameplay_mode/games_with_this_mode,m.02px4yk,what is a turn-based rpg that features multiplayer,multiplayer video game
+10483,m.03b4jt,biology/organism_classification/rank,m.06zf0,what is the rank of the organism classification sium sisarum?,"sweet potato, raw, unprepared||crummock||skirret"
+10501,m.07pnk,media_common/cause_of_loss/works_lost_this_way,m.03ns6tb,what is a stolen painting by Paul Cezanne?,theft
+10520,m.0bfdql3,music/album/artist,m.03h_0w,which artist released the violin sonatas?,
+10688,m.0b6347,cvg/computer_videogame/developer,m.03bxszz,What company developed blazing angels?,炽天使：二战空骑兵||blazing angels: squadrons of wwii||ангелы смерти: асы второй мировой
+10720,m.06p5g,astronomy/star_system/planetary_system,m.0b6g6_g,"what is a Main Belt minor planet discovered in Czech Republic, on 1983",solar system
+10726,m.068jk6,film/film/language,m.02bjrlw,What language is the film la ricotta in?,curd cheese
+10748,m.0gdxdbz,music/recording/artist,m.014hz6,"Who recorded enigma variations, op. 36: variation 10","variations on an original theme, op. 36 \""enigma\"": x. intermezzo (dorabella). allegretto||variations on an original theme, op. 36 \""enigma\"": x. dorabella. intermezzo. allegretto||variations on an original theme, op. 36 \""enigma\"": x. intermezzo (dorabella): allegretto||enigma variations op. 36: var. x. intermezzo: allegretto"
+10793,m.03k3r,biology/organism_classification/organisms_of_this_type,m.09zrgr,what is the name of the new New Zealand racehorse known as The Kiwi,equine||equus ferus caballus||domestic horse||horse
+10805,m.04zlmb,cvg/cvg_publisher/game_versions_published,m.04m8bc5,what is a game published by dreamcatcher games,dreamcatcher interactive||dreamcatcher interactive inc.||dreamcatcher interactive inc
+10814,m.04xvlr,media_common/netflix_genre/titles,m.02qw5q2,what is a period piece film in netflix ,historical period drama
+10818,m.01j7lkg,music/album/album_content_type,m.02jbfk,where did sidney wood die,recurring dream: the very best of crowded house||recurring dream
+10824,m.03j1hrz,music/artist/label,m.0g768,what label is jimdandysblackoakarkansas contracted with,"knowbody else, the||the knowbody else||jim dandy & black oak arkansas||black oak arkansas"
+10848,m.0gbmcwg,people/person/nationality,m.0345h,what country is stefan k?nig from,
+10910,m.0f5n8xz,music/album/album_content_type,m.02jbfk,what kind of album is tootsie,
+11007,m.01pvj8,cvg/cvg_platform/games_on_this_platform,m.0kyqg6_,What's a game on ti-99,texas instruments ti-99/4a
+11022,m.0ndck5t,film/film/language,m.03_9r,what language was furueru shita in,
+11026,m.02h664x,people/profession/people_with_this_profession,m.0jwydj2,which basketball player is from bulgaria,
+11110,m.0kz16b0,cvg/game_version/publisher,m.051pnv,who published enemy territory: quake wars?,
+11120,m.026n54k,broadcast/broadcast/area_served,m.0124d8,where does 96.3 real radio xs reach ,xfm scotland
+11129,m.01_j_n,common/topic/notable_types,m.021y8yh,Name an astronaut.,rakeysh sharma||rakesh sharma
+11183,m.01wz16j,people/person/nationality,m.09c7w0,what country is rickybellakaslick from,ricardo bell||rickey bell||slick||ricky bell
+11222,m.0910v3,food/ingredient/more_general_ingredient,m.015zfk,what is green food coloring in general,fast green fcf
+11247,m.0j62f20,time/event/locations,m.0qb62,Where was the first rebellion in shouchun,wang ling's rebellion
+11270,m.06p5g,astronomy/star_system/planetary_system,m.04g2fx8,"What main belt asteroid was discovered on February 19, 1980?",solar system
+11310,m.02hwhtb,base/rosetta/languoid/languoid_class,m.05kf4hf,is eruwa considered a language or pidgin?,eruwa language||erakwa||arokwa||erohwa
+11325,m.01www19,music/artist/genre,m.016ybr,what kind of music do the tinydancers perform,the tiny dancers||tiny dancers
+11459,m.0kysv6t,cvg/game_version/platform,m.027lnzs,Which phone can one download and play the game bugdom 2,
+11576,m.01z747,cvg/gameplay_mode/games_with_this_mode,m.02pznf5,What is the name of a game where you can play multiplayer,multiplayer video game
+11583,m.044zy6,music/artist/genre,m.01cbwl,what type of music is savestheday,saves the day||s.t.d.
+11621,m.08b2n2,medicine/disease/parent_disease,m.0qcr0,what is the parent disease of macroglobulinemia,waldenstr?m's macroglobulinemia||waldenstrom macroglobulinemia
+11739,m.03jy9d,medicine/drug_administration_route/drug_formulations,m.0hqt7zs,What a topical treatment ,topical medication
+11803,m.014z96,film/film/written_by,m.0jsrpy,who wrote the film  bill and ted,the adventures of bill and ted||bill & ted's excellent adventure||dudes
+11856,m.03jgyvg,music/album/artist,m.0134mx,Who created the album singles as & bs?,singles a's & b's (disc 1)||singles a's & b's
+11910,m.041rx,people/ethnicity/people,m.0b4tnt,Which jewish person founded the Jewish Spectator? ,jew||jewish people
+11975,m.0mkvdy4,music/release_track/release,m.03fjv0m,Which album is japan a track of?,
+11998,m.09dwr8,medicine/medical_specialty/diseases_treated,m.029s1,What is a disease that comes from genetics,clinical genetics||medical genetics
+12001,m.0bj5q2t,film/film/language,m.02h40lc,What language is in wherever you are,
+12119,m.013wkd,time/event/includes_event,m.04cxy_,which historical event took place in egypt's old kingdom?,old kingdom of egypt
+12185,m.012qdp,people/profession/people_with_this_profession,m.0170kh,Who is an officer of the armed forces?,military officer||commissioned officer
+12228,m.01s_r0w,music/artist/genre,m.05r6t,what kind of music does thegersch perform,"the gersch||gersch, the"
+12366,m.01jqtk2,music/album/album_content_type,m.02jbfk,what books are about the subject art,recollection
+12411,m.07s9rl0,film/film_genre/films_in_this_genre,m.07k9hr4,what is a film in the dramagenre,drama film||drama||/m/02822||television drama||dramatic programming
+12421,m.0ds6hpj,film/film/language,m.05f_3,which languages is age of heroesfilmed in?,age of heroes
+12448,m.0np1xgv,music/recording/artist,m.0hprzx3,who is poison by?,
+12455,m.09rmm6y,film/film/genre,m.01t_vv,what kind of genre of film is crashing hollywood,
+12517,m.0nh0v0,music/recording/producer,m.04mvnw,who produced the track well meet again?,we'll meet again
+12532,m.02byr7,music/artist/label,m.015kg1,What label is gofrenzalgo signed to,frenzal rhomb||frenzel rhomb||frenzai rhomb
+12614,m.03wh1yc,tv/tv_program/program_creator,m.025504,What company created the show who wants to be a millionaire?,milionerzy
+12636,m.0g293,music/genre/albums,m.0dxbdw0,Name a Latin American music album. ,latin music||music of latin america
+12651,m.0b3_ld,people/ethnicity/languages_spoken,m.0d7y7k,Which language does the klickitat (tribe) speak,klickitat people
+12695,m.01vsy7t,music/lyricist/lyrics_written,m.08d7db,what is the lyrics written by?,david bowie||david jones||davis bowie||bowie||the thin white duke||ziggy stardust||thin white duke||david robert jones||david robert hayward-jones||david robert haywood jones||davie bowie
+12775,m.0g39h,meteorology/cyclone_affected_area/cyclones,m.0g9w94k,which meteorological phenomenon occurred in Australia on 2011,qld||state of queensland||queensland
+12902,m.01z0rv9,education/educational_institution/school_type,m.068bs,berkeley arts magnet is what type of school,
+12905,m.05svfg,common/topic/notable_types,m.01xryvt,what is george andone vasiliu known as,george bacovia
+12906,m.05wqr14,common/topic/notable_types,m.01xryvt,what albums are by j dilla,eric blau
+12999,m.0g90fx,fictional_universe/fictional_character/character_created_by,m.046_v,Who created the character aginar,
+13046,m.02_j1w,soccer/football_position/players,m.0fq0mcx,Name a defensive player in soccer?,defender
+13113,m.06zjmcd,film/film/language,m.07c9s,what language is spoken in naam iruvar namakku iruvar,"we two, ours two"
+13146,m.02kc1x8,user/mt/default_domain/metabolite/associated_disorder,m.0bqmg2,"what disorder is associated with 3,7-dihydropurin-6-one",sarcine||sarkine||hypoxanthine enol||sarkin||hypoxanthine
+13159,m.02hjn4,cvg/gameplay_mode/games_with_this_mode,m.025s52x,what is a single-player sports video game ,single-player video game
+13283,m.02h664x,people/profession/people_with_this_profession,m.0gjc9wy,What basketball player played for the pacers,
+13342,m.01rh1t0,music/album/genre,m.0hdf8,what is the type of music that is played on disco blood?,
+13374,m.02hmvc,film/film_genre/films_in_this_genre,m.0b1yq2,what is a 1941short film,short subject||short||short film||short films
+13430,m.09snp5,people/ethnicity/geographic_distribution,m.05sb1,Where do the muhajir (pakistan) people live,muhajir people
+13496,m.0slwfql,music/album/album_content_type,m.0l14g2,access all arenas is what kind of album,"access all arenas : live, july 19th 2012: les arènes de n?mes"
+13515,m.01s2r5h,music/artist/genre,m.03lty,what kinds of music is played by rickywarwick,ricky warwick
+13677,m.04y8wvp,music/artist/track,m.0dw2gj2,what is the name of a track by  heartanger,secret sphere
+13689,m.0b713z,music/artist/track,m.0w0cbd9,What tracks are by billychildspiano?,william edward childs||billy childs
+13691,m.01k3_v0,music/artist/label,m.0c34hp,whats the name of the label that  southerncultureontheskids records to,scots||s.c.o.t.s.||southern culture on the skids
+13703,m.01p4fhp,music/artist/track,m.0xxc4f,What tracks are by thereiversofficial,"the reivers||reivers, the||zeitgeist"
+13754,m.0_jqh5j,music/composition/lyricist,m.0238mf,who composed go home girl,
+13808,m.0gkl8hv,people/person/nationality,m.05r4w,Where is marina albuquerque from?,
+13820,m.02zktk,education/educational_institution/campuses,m.02zktk,What genre is the film the pasha's daughter,"lyon college, batesville||lyon college||lyon college, main campus"
+13848,m.05vw14b,people/deceased_person/place_of_death,m.0f2v0,where is florida did suzanne keller die?,
+13855,m.01xczx,type/object/type,m.05bpnkw,What is a mansard roof,
+13862,m.017rqm,base/activism/activism_issue/activists,m.040yjk,who is an activist that fought for  female suffrage,women's suffrage
+13918,m.0gw5t9w,media_common/netflix_genre/titles,m.07nk4,what is the name of a movie or tv show for ages 8 to 10 on netflix,ages 8-10||movies/tv for ages 8 to 10
+13983,m.01t_nxt,music/group_member/instruments_played,m.0342h,what instrument does paulcollins play,"collins, paul||paul collins"
+14002,m.02hjn4,cvg/gameplay_mode/games_with_this_mode,m.037bl8,what is a game with single_player as its gameplay mode,single-player video game
+14048,m.0307_g,music/artist/genre,m.016clz,What type of music does archiveuk group perform?,archive
+14119,m.01ls_m8,music/artist/genre,m.0145rs,what genre of music does the artist  salvadorofficial make,salvador
+14169,m.0bg635,music/artist/origin,m.01smm,where is the artist savingjane from ,saving jane
+14221,m.03ksy,common/topic/subjects,m.0wxy7nm,who is an alumni involved in IT ,"harvard university||harvard||harvard university, main campus||harvard university, cambridge"
+14233,m.0ftj7r3,music/album/album_content_type,m.0l14gg,is the dancer a soundtrack or compilation album,
+14254,m.03jy9d,medicine/drug_administration_route/drug_formulations,m.0hqrf09,what is a drug formulation of a topical?,topical medication
+14283,m.02x75n,cvg/computer_videogame/cvg_genre,m.0403l3g,What netflix genre is the film the john cena experience,grandia ii
+14453,m.0j2v,book/author/book_editions_published,m.04v2prg,what is book was published by?,a. costler||arthur koestler||dr. a. costler
+14500,m.0j7mt4z,tv/tv_program/genre,m.0lsxr,what kind of show is hum ne li hai- shapath?,supercops vs supervillains
+14638,m.05l5vx,music/artist/label,m.033hn8,What label is kennyandchante on?,"kenny lattermore||kenny latimore||lattimore, kenny||kenny lattimore||keeny lattimore"
+14717,m.07247m,music/artist/origin,m.01xbld,what area is blackwireuk from?,black wire
+14733,m.02y_5cp,music/composition/composer,m.01bpnd,who was the composer for the songmucky fingers?,mucky fingers
+14758,m.02wxkny,astronomy/astronomical_observatory/discoveries,m.03y78pj,what asteroid belt did kuma kogen observatory discover,kuma kogen astronomical observatory
+14768,m.03h_9lg,base/academyawards/host_of_oscar_show/oscar_show_hosted,m.04110lv,which award show did realhughjackman host ,hy? jakkuman||khyu dzhekman||hugh jackman||hugh michael jackman
+14771,m.0cqbc,astronomy/asteroid_group/asteroid_group_members,m.0k0k9l6,what asteroid was discovered in 1998?,asteroid belt||main-belt||main belt||main asteroid belt
+14896,m.01pv86j,music/artist/genre,m.03xnwz,What sort of pop does theservantuk play,"the servant||servant, the"
+14901,m.062s9s,location/location/events,m.014s8t,what's a historical event that happened in italia (roman empire),roman italy
+14948,m.01lrchh,music/artist/album,m.02z5fdf,what album is by silentiumband,silentivm||silentium
+15075,m.08ny_h8,film/film/language,m.02h40lc,in which language is the broadminded movie spoken ,
+15076,m.07xg1,book/book_subject/works,m.0bxs6rj,what book details the military of the united states,united states military||united states armed forces
+15083,m.041rx,people/ethnicity/people,m.04sxyjt,who is a jewish person?,jew||jewish people
+15090,m.0hsqf,location/location/people_born_here,m.0k8p245,Who is the first South Korean gymnast that won an gold medal?,"keijō-fu||keizyo||keijoshi||kezyo||kyongsong-bu||kyongsongbu||kēzyō||keijō-shi||soul-t'ukpyolsi||s?ul||soulsi||keizyō||keijofu||kyongsongsi||kyongsong-si||keijo-shi||kyongsong-pu||ky?ngs?ng-pu||special city of seoul||ky?ngs?ng-bu||seoul, south korea||kyongsongpu||seoul city||seoul||soultukpyolsi||s?ul-si||keijo-fu||soul-si||s?ul-t’?kpy?lsi||ky?ngs?ng-si"
+15172,m.06zlybp,people/person/place_of_birth,m.0jp26,What release included the recording fantasy,juan carlos lea?o
+15175,m.01s67l5,music/album/release_type,m.02lx2r,how was interpieces organization released ,
+15239,m.0crsn60,film/film/country,m.03rk0,WHich nation filmed kadal sadukudu,
+15307,m.01fxg03,music/album/album_content_type,m.0l14gg,what type of album is josie and the pussycats,josie and the pussycats: music from the motion picture||josie and the pussycats soundtrack
+15338,m.0389995,music/release/region,m.09c7w0,"what region was 89.3 live current, volume 1 released in","89.3 the current: live current, volume 1"
+15514,m.0ds446w,people/person/religion,m.0b06q,what religion is viktor zimin,viktor mikhaylovich zimin
+15539,m.05xm7c,music/artist/label,m.05808s,what is the recording company of altthesaint,a.l.t.
+15549,m.08xpv_,location/place_with_neighborhoods/neighborhoods,m.08gm1d,what is an example of a neighborhood in the pittsburgh metropolitan area,"pittsburgh, pa metropolitan statistical area||pittsburgh tri-state"
+15590,m.0278ybw,music/artist/label,m.03y9sc,what label is chrisadamsstringdriventhing under,string driven thing
+15599,m.01jj484,music/album/release_type,m.02lx2r,is bandes originales de films de an album or a dvd,bandes originales de films de ennio morricone
+15670,m.02w4djb,music/artist/origin,m.04jpl,where is mollybeanland originally from,molly beanland
+15758,m.09pgcxd,film/film/directed_by,m.042kbj,who was the director for the film its a great life,
+15776,m.018p5f,broadcast/radio_station_owner/radio_stations,m.027z1l3,which radio station is owned by clear channel communications,c c media holdings inc||bt triple crown capital holdings iii inc||cc media holdings inc||iheartmedia
+15819,m.01w4fr4,music/artist/label,m.03m9trs,what album was created by red flag (band),"mass effect||eclectic kid||snapper, the||m.i.k.e||boy from nowhere, the||futuro||x-scape||vision act||calling the freak||soyuz||absolute||solar factor||fun-a-tic||technology man||the aggressor||dj robo'jox||x-tra-vaganza||mike \\\""m.i.k.e.\\\"" dierickx||plastic boy||m.i.k.e.||sector 7||push||galore||virtua trancer||tribal warriors||return of the native||dj push||sfx||the absolute||fascinated||aggressor, the||complex climate||alternative art||the blackmaster||tag||e-tronic||the astronaut||overtone||robo'jox, dj||the boy from nowhere||hypnobasia||classic tribe||the snapper||cosmo kid, the||the cosmo kid||dark city||dj robojox||drop||mike dierickx||linetech||xv 7||coax||liquid overdose||rhythm quest||magnetical||blackmaster, the||dirk dierickx||see:3"
+16039,m.01mfz8z,music/artist/track,m.0dq3v7b,what are tracks by jochempaap,"jochem papp||tune||public energy||electric deluxe||dcc||jochem paap||paap, jochem||speedy j||speedy j."
+16061,m.03hn0,film/film_genre/films_in_this_genre,m.0gkt86b,Name a 1970 korean historical film.,historical drama
+16076,m.0c9c52x,people/person/nationality,m.0345h,what spacecrafts has rockwell international manufactured,reiner sü?
+16103,m.0d7ttpb,film/film/language,m.06nm1,What language is santa in?,
+16266,m.057m6,cvg/cvg_genre/games,m.021dvx,what is a famous mmorpg ,massively multiplayer online role-playing game
+16290,m.0f9w35m,music/release/track,m.0f8tkmb,What was a popular track from the garden state album,garden state: music from the motion picture
+16332,m.041rx,people/ethnicity/people,m.06vv6_,which actor is ethnically jewish,jew||jewish people
+16352,m.0k33swc,tv/tv_series_episode/series,m.031rm1,what is the series that the episode scotland is from ?,
+16571,m.0gd73y,education/educational_institution/campuses,m.0gd73y,What campus does indiana university hospital use,"indiana university hospital, main campus||indiana university hospital, indianapolis||iu health university hospital"
+16766,m.03582r,location/administrative_division/country,m.06f32,what country does  taoyuan county serve,"taoyuan, taiwan"
+16850,m.0jymw4s,film/film/country,m.0chghy,what film is hemp revolution from?,
+16877,m.0238_xj,film/film/genre,m.02l7c8,What type of film is the longest night?,
+16913,m.03r8gp,film/film_subject/films,m.026y6z7,a filmmaker filmed this subject.,filmmaking||film production
+16936,m.015w9s,media_common/netflix_genre/titles,m.09sfbw2,whats the title of a movie that is classified as a netflix television movie,tv movie||television film||made-for-tv movie
+17030,m.0xqcrkh,film/film/country,m.01ls2,which country released semáforo,stoplight
+17206,m.02hjn4,cvg/gameplay_mode/games_with_this_mode,m.0blkpf,what game is single-player?,single-player video game
+17248,m.01f9359,music/album/genre,m.0ggx5q,what kind of music would u expect to find on boomerang,boomerang soundtrack||boomerang: original soundtrack album
+17296,m.0cz9p3l,music/composition/composer,m.03f0qd7,Who was the composer for loca?,
+17297,m.0g5jp9d,medicine/disease/includes_diseases,m.03nfsv,which diseases are found in lichen?,lichen disorder||lichen disease
+17362,m.0c663,location/location/people_born_here,m.0ghqr2r,Name a woman who was born in Apuila. ,regione puglia||puglie||apulia||le puglie||puglia
+17376,m.06zp78d,common/topic/notable_types,m.02xlh55,What is roland dieckmann famous for,
+17427,m.02hjn4,cvg/gameplay_mode/games_with_this_mode,m.0c9kq3,What is the name of a game with single-player mode,single-player video game
+17568,m.0fwycdx,music/release/track_list,m.0ms27t_,"what is the track list for the release clarinetitis / sing, sing, sing",classic jazz archive: benny goodman and big band
+17669,m.04w2yxm,book/written_work/author,m.02c3_1,who was the author of worship,
+17672,m.05h4n_p,base/rugby/rugby_player/type_of_rugby,m.06f3l,what ,fred smith
+17748,m.0r4l5d,music/recording/releases,m.01j4cg_,what is a recording from europa,
+17767,m.0c5vg6,music/artist/genre,m.0jmwg,Name thekominas's music genre.,the kominas
+17804,m.03lty,music/genre/albums,m.02pxnhy,what's a live album by dio?,heavy metal||heavy metal music
+17814,m.07f9yy,music/group_member/instruments_played,m.05r5c,which musical instrument is played by sebastienfansite,sébastien izambard||sebastien izambard
+17937,m.03jy9d,medicine/drug_administration_route/drug_formulations,m.0hqrh3p,which topical drug contains zinc oxide?,topical medication
+17944,m.041rx,people/ethnicity/people,m.06czq8,who is a jewish person?,jew||jewish people
+17961,m.060p18,cvg/cvg_developer/games_developed,m.078c11,What is a game domark developed?,domark software
+18049,m.0gdqzt,music/artist/genre,m.0xhtw,what kind of music does theplight play?,"plight, the||the plight"
+18051,m.01jc_f1,music/album/genre,m.0xhtw,what is the genre of the Tesla album released in 1990,five man acoustical jam
+18056,m.0hcr,film/film_genre/films_in_this_genre,m.02gs6r,What is the name of the 1989 Hayao Miyazaki film?,animated||animation
+18057,m.09xqv,biology/organism_classification/lower_classifications,m.052m9f,What is the lower classification for the gryllidae,cricket
+18080,m.01pp6j3,music/album/release_type,m.02lx2r,What was released as?,after the rain
+18114,m.0bbd9xx,music/composition/form,m.074ft,What type of composition is il voyage en solitaire?,
+18138,m.0fjg6cy,music/album/artist,m.02_fj,Who recorded the album titled the voice,
+18194,m.0crt3h5,media_common/netflix_title/netflix_genres,m.0fs6x5,what netflix genre is the title santiago ,
+18199,m.05kkxc6,cvg/computer_videogame/publisher,m.03_c8p,What publisher released singstar vol. 2?,
+18355,m.04mky3,music/group_member/instruments_played,m.0319l,Where did george ovey die?,"stevens, sufjan||sufjan stevens"
+18388,m.06mvq,people/ethnicity/people,m.0d57_l,who is a swedish composer?,swedes
+18453,m.02xr_b,people/person/place_of_birth,m.0tjlp,what type of disaster was the san juanico disaster?,"singleton, zutty||zutty singleton||arthur james \""zutty\"" singleton||arthur james singleton"
+18485,m.01vqjzf,people/person/gender,m.02zsn,Is pflum orsolya a male or female,
+18556,m.0h81j6h,people/person/gender,m.05zppz,What is the gender of bhagwan das varma?,
+18576,m.02kbxdm,user/mt/default_domain/biofunction/metabolites,m.0q01m,what is the name of an essential amino acid,
+18579,m.01p8sy,location/location/time_zones,m.02lcqs,"What time zone is 100 mile house, british columbia in","one hundred mile house, canada||one hundred mile house, british columbia||one hundred mile house"
+18586,m.04ycmmc,media_common/netflix_title/netflix_genres,m.015fr,"What netflix genre is lula, the son of brasil under?","lula, o filho do brasil||lula, son of brazil"
+18602,m.041rx,people/ethnicity/people,m.02tg_9,What notable person is jewish?,jew||jewish people
+18603,m.0w2xrvw,people/person/religion,m.0blk0,what religion does lali giorgísasuli matcharashvili follow?,"lali match||lali matcharashvili, lali g. match lali gogiasasuli matcharashvili"
+18672,m.0hx5f,location/location/people_born_here,m.04csb3,who is a famous football striker born in durham,"durham, england"
+18695,m.0vc504n,music/release_track/recording,m.0nzl12,whats the recording with the release track confirmation,autumn in new york
+18746,m.0qzbv91,people/person/place_of_birth,m.0156q,where was henrique martins born,
+18870,m.095kpq,people/person/gender,m.05zppz,Name a male.,dwight macdonald
+18873,m.0tf1dt,music/recording/releases,m.0399w8j,what is a release on the recording believe,believe (acoustic)
+18881,m.041rx,people/ethnicity/people,m.02qry6,Which notable person is jewish?,jew||jewish people
+18885,m.03q2kbr,digicams/digital_camera/manufacturer,m.03pmfw,what is the manufacturing  company of the nikon coolpix s510 cmaera,
+18889,m.0cz7_3h,people/person/nationality,m.056vv,Where is milo? dragojevi? from,
+18898,m.0g1rtj,people/person/profession,m.0kyk,Name an album made by bob marley?,jay stewart||stuart palmer
+18905,m.0hqwqg5,medicine/drug/drug_class,m.04dyr8,what is a drug under the uniretic class,moexiprilat/hydrochlorothiazide
+18942,m.0crtnn8,film/film/country,m.09c7w0,which country was the movie released in,taekwondo defender of kids:  kid's safety
+18949,m.0rt2zgc,music/album/artist,m.01239,which artist recorded banadeek taala?,banadeek ta'ala||i'm calling you come
+18965,m.0clc8t,people/person/nationality,m.09c7w0,What nation is timlanders from?,timothy gerard landers||tim landers
+19044,m.038h54,people/person/ethnicity,m.0x67,what is the ethnicity of tawana brawley?,maryam muhammad||tawana brawley rape allegations
+19057,m.01hqcds,music/album/genre,m.0m40d,What kind of music is featured on dream with dean,dream with dean/everybody loves somebody||dream with dean / everybody loves somebody
+19111,m.01ng7l3,music/artist/origin,m.01_d4,where did baxter1111 start out,baxter||.baxter.
+19131,m.0d_b8st,music/release/format,m.0jy36,"what format is the release coltrane, john in?",a love supreme
+19134,m.02rwcl7,music/album/album_content_type,m.06vw6v,what type of content is the album ?,soy como quiero ser
+19139,m.03z7vy8,music/album/release_type,m.02lx2r,is masters collection an album or a dvd,castle masters collection: jon lord
+19145,m.01k5hzy,music/album/artist,m.01k5j1d,Who released the album jerusalem,dopesmoker
+19234,m.04xvlr,media_common/netflix_genre/titles,m.047gs5d,what movie is classified as a period piece title,historical period drama
+19287,m.02z8b2h,fictional_universe/fictional_character/character_created_by,m.02x8kk,who was the creator of the fictional character hitman (marvel comics),
+19306,m.0492gq6,location/location/containedby,m.0488g,Where is wilder located at?,"wilder, kansas"
+19433,m.01nkmw,aviation/airport/airport_type,m.01xpkvj,What type of airport is lyon airport,lyon–saint-exupéry airport||lyon satolas airport||saint-exupery international airport||saint-exupéry airport
+19435,m.01vm34v,music/artist/genre,m.02k_kn,Which type of music does astudio create,a'studio||a-studio||a studio
+19511,m.06k50f,cvg/computer_videogame/gameplay_modes,m.02hjn4,what player mode is lcd games from the legend of zelda series played in?,
+19525,m.017rqm,base/activism/activism_issue/activists,m.02xxgv,who is a female suffrage activist,women's suffrage
+19592,m.01hdtqw,music/release/format,m.01www,"What format was cmon, cmon released as","c'mon, c'mon"
+19615,m.0bqt4w,location/location/containedby,m.0345h,which country is lohr in,lohr a. main
+19629,m.01npl51,music/artist/track,m.0sjwsl,What is a track by the musical artist an emotional fish?,
+19650,m.02hjn4,cvg/gameplay_mode/games_with_this_mode,m.04cqrr3,what is a single-player created by Ubisoft Casablanca,single-player video game
+19655,m.01fc7p,military/military_conflict/military_personnel_involved,m.04k6z8,Who was a person involved in battle of gallipoli?,gallipoli campaign
+19672,m.0j43h7l,film/film/country,m.03rjj,what country is noi tre from?,the three of us||we three
+19697,m.0by15kh,astronomy/star_system_body/star_system,m.06p5g,where is (6019) 1991 ro6 located ,6019 telford
+19807,m.0c1yv4_,music/album/release_type,m.02lx2r,what is the release type of that's bubblegum - that's giorgio?,
+19826,m.0dng4z,cvg/computer_videogame/game_series,m.02rt5qc,What series is singstar anthems a part of?,
+19850,m.04hj6r,music/artist/genre,m.0255pb,which category of music is tomahawkofficial under,tomahawk
+19881,m.0142b6,cvg/computer_videogame/cvg_genre,m.02x9hs,what kind of game is jerec?,star wars jedi knight: dark forces ii||guerra nas estrelas: jedi knight - dark forces ii: o cavaleiro jedi||star wars: jedi knight - dark forces ii||star wars: jedi knight||dark forces ii
+19887,m.0kyn32h,cvg/computer_videogame/publisher,m.02hk_py,What company published mickey mouse: the computer game?,
+19893,m.03h__1b,music/artist/genre,m.01243b,what genre of music does theblackswans perform?,"the black swans||black swans, the"
+19904,m.02xbz90,people/person/nationality,m.0193qj,From which nation did Mitsumi Shizumi hail citizenship from? ,mitsumi shimizu
+19985,m.01k5969,music/album/album_content_type,m.02jbfk,What type of album is "The Peel Sessions"?,
+20124,m.037r1h,location/location/containedby,m.01ly8d,"where is rivadavia department, buenos aires",rivadavia partido
+20246,m.03jhpgp,music/album/artist,m.0674bs,which artist released the album,die unendliche geschichte soundtrack||die unendliche geschichte
+20268,m.052psgk,film/film/country,m.09c7w0,what country was the making of bobby burnit filmed in,
+20302,m.0dy7xw,time/time_zone/locations_in_this_time_zone,m.02v49q,which capital is located in the iran standard time,irst||it||iran time||iran time zone
+20338,m.09c7w0,location/location/contains,m.01mdcw," Name a village in Monroe County, New York named after statesman Daniel Webster",us||the states||united states||estats units d'amèrica||america||u.s.||u.s.a.||usa||united states of america||u.s. of a.
+20345,m.0tf1dt,music/recording/song,m.0_j_p7y,which song is part of believe,believe (acoustic)
+20479,m.01pvj8,cvg/cvg_platform/games_on_this_platform,m.040rs0c,What's the name of a ti-99 game,texas instruments ti-99/4a
+20508,m.07rqy,periodicals/newspaper_circulation_area/newspapers,m.02pnv6d,what is a newspaper in the twin cities?,
+20575,m.0njtmyt,people/person/place_of_birth,m.056_y,What album was produced by kaci brown,rafael de penagos||rafael de penagos giménez
+20622,m.0yqnn7y,people/person/place_of_birth,m.0bmm4,Which city was franja ko?enini born in,
+20626,m.04634rs,music/artist/genre,m.0ggq0m,What genre of music does the artist cantabile create,
+20690,m.0k3v8dj,astronomy/celestial_object/category,m.0jvq,What type of celestial object is 20224 johnrae,
+20701,m.012qdp,people/profession/people_with_this_profession,m.028f_3,Name an armed forces officer,military officer||commissioned officer
+20717,m.06634j2,cvg/computer_videogame/cvg_genre,m.02x9hs,What is the cvg genre of dan dare iii: the escape?,
+20770,m.02q6cq0,organization/organization/legal_structure,m.025w401,What's the legal structure of new horizon interactive,disney canada inc.
+21042,m.02hjn4,cvg/gameplay_mode/games_with_this_mode,m.087s1y,What's the non-multiplayer mode for single-player,single-player video game
+21093,m.02hjn4,cvg/gameplay_mode/games_with_this_mode,m.0h3pbtb,What game has a single-player,single-player video game
+21132,m.0crzg10,film/film/language,m.0653m,What language is spoken in women prison,
+21199,m.0288nsm,internet/website/status,m.02hsn4g,What is the status of the website hotmail,msn hotmail||microsoft hotmail||live mail||windows live hotmail||outlook.com
+21258,m.038gsm,location/location/events,m.0f9r_x,What's an event that took place in new orleans arena,the hive||smoothie king center
+21273,m.04xvlr,film/film_genre/films_in_this_genre,m.09kd_p,What is an example of a period piece film?,historical period drama
+21457,m.037ltr7,music/release/format,m.01www,What medium was lord herbert of cherbury's lute book released on,
+21458,m.05nsj_d,cvg/game_version/developer,m.06rfy5,which company developed the videogame nhl 08?,
+21493,m.0chp4r,biology/animal_breed/place_of_origin,m.09c7w0,which country was wyandotte born,wyandotte chicken
+21597,m.0_hxvvx,music/composition/form,m.074ft,in what form was the composition cabaret released,
+21682,m.0dshw5z,music/album/artist,m.0hqgp,"Name a composer in the album, ""The Great Composers IV"".",six great waltzes - johann strauss||peter tschaikowsky||george gershwin||gioacchino rossini||les triomphes de karajan
